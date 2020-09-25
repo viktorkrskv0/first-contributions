@@ -327,6 +327,7 @@
 - [Someone](https://github.com/LearnerSamuelX)
 - [Someone Else](https://github.com/weihanchen0725)
 - [Nikola Grujic](https://github.com/nikolatechie)
+- [Viktor Karsakov](https://github.com/viktorkrskv0)
 - [Rron Kurtishi](https://github.com/RronKurtishi)
 - [Ohad Koren](https://github.com/ohadkoren)
 - [Pranay Harjai](https://github.com/pranayharjai7)
